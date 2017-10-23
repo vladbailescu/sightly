@@ -1,7 +1,7 @@
 Apache Sling Scripting - HTL implementation
 ====
-Convenience project including all HTL implementation bundles as git submodules
-===
+*Convenience project including all HTL implementation bundles as git submodules*
+
 These bundles provide support for the HTL web templating language.
 
 ## Contents
