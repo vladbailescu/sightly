@@ -1,0 +1,24 @@
+[submodule "models-use-provider"]
+	path = models-use-provider
+	url = https://github.com/apache/sling-org-apache-sling-scripting-sightly-models-provider.git
+[submodule "engine"]
+	path = engine
+	url = https://github.com/apache/sling-org-apache-sling-scripting-sightly.git
+[submodule "testing"]
+	path = testing
+	url = https://github.com/apache/sling-org-apache-sling-scripting-sightly-testing.git
+[submodule "testing-content"]
+	path = testing-content
+	url = https://github.com/apache/sling-org-apache-sling-scripting-sightly-testing-content.git
+[submodule "repl"]
+	path = repl
+	url = https://github.com/apache/sling-org-apache-sling-scripting-sightly-repl.git
+[submodule "compiler"]
+	path = compiler
+	url = https://github.com/apache/sling-org-apache-sling-scripting-sightly-compiler.git
+[submodule "java-compiler"]
+	path = java-compiler
+	url = https://github.com/apache/sling-org-apache-sling-scripting-sightly-compiler-java.git
+[submodule "js-use-provider"]
+	path = js-use-provider
+	url = https://github.com/apache/sling-org-apache-sling-scripting-sightly-js-provider.git
